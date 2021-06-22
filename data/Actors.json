@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"samuel","characterIndex":0,"characterName":"samuel","classId":11,"equips":[52,0,0,104,0],"faceIndex":0,"faceName":"samuel","traits":[],"initialLevel":1,"maxLevel":99,"name":"Samuel","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"antonino","characterIndex":0,"characterName":"antonino","classId":9,"equips":[3,0,14,7,0],"faceIndex":0,"faceName":"antonino","traits":[{"code":43,"dataId":18,"value":1},{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Antonino Cannavacciuolo","nickname":"Chef Cannavacciuolo","note":"","profile":"Antonino"},
+{"id":3,"battlerName":"valerio","characterIndex":0,"characterName":"valerio","classId":10,"equips":[49,90,101,102,0],"faceIndex":0,"faceName":"valerio1","traits":[{"code":43,"dataId":151,"value":1},{"code":41,"dataId":2,"value":1},{"code":41,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Valerio","nickname":"Galerio","note":"","profile":"Sta facendo un po' di trolling"},
+{"id":4,"battlerName":"jacopo","characterIndex":0,"characterName":"jacopo","classId":1,"equips":[50,0,109,0,0],"faceIndex":0,"faceName":"jacopo","traits":[{"code":41,"dataId":2,"value":1},{"code":11,"dataId":1,"value":1},{"code":52,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Jacopo","nickname":"","note":"","profile":"Apprendista redditor di giorno, gamer di notte."},
+{"id":5,"battlerName":"bisio","characterIndex":0,"characterName":"bisio","classId":11,"equips":[52,0,0,0,100],"faceIndex":0,"faceName":"bisio","traits":[],"initialLevel":1,"maxLevel":99,"name":"Molestatore Seriale","nickname":"","note":"","profile":"Il suo cibo preferito è il Wiener Schniztel"},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
